@@ -25,7 +25,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   **Jingyi Xu**, Zirui Li, Guodong Du, Qi Liu, Li Gao, and Yanan Zhao* 
   <br>
-  Green Energy and Intelligent Transportation, 2022: 100018.
+  Green Energy and Intelligent Transportation, 2022.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)]
    
