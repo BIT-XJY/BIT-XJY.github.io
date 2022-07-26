@@ -8,6 +8,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 
 ## Research Interests
 
+- Semantic segmentation
 - Energy management stategies, deep reinforcement learning, transfer learning
 
 ## News
