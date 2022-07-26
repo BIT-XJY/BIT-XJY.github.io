@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received the B.E degree in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020. I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. I am trying to apply reinforcement learning methods to energy management systems for hybrid electric vehicles.
+I received the B.E degree in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020. I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. I am trying to apply learning methods to intelligent vehicles and robots.
 
 ## Research Interests
 
