@@ -39,7 +39,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
-  Guangming Xiong*, Junyi Ma, Huilong Yu, **Jinyi Xu**, Jiahui Xu
+  Guangming Xiong*, Junyi Ma, Huilong Yu, **Jingyi Xu**, Jiahui Xu
   <br>
   Unmanned Systems (US).
   <br>
