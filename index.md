@@ -21,6 +21,15 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+
+- **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
+  <br>
+  Junyi Ma, Xieyuanli Chen, **Jingyi Xu**, Guangming Xiong* 
+  <br>
+  IEEE Transactions on Industrial Electronics (TIE), 2022.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
+ 
 - **A Transferable Energy Management Strategy for Hybrid Electric Vehicles via Dueling Deep Deterministic Policy Gradient**
   <br>
   **Jingyi Xu**, Zirui Li, Guodong Du, Qi Liu, Li Gao, and Yanan Zhao* 
@@ -35,7 +44,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Intelligent Vehicles Symposium (IV), 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2202.11514.pdf)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
