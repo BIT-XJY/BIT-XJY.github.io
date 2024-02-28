@@ -40,16 +40,16 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
 
 - **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
   <br>
-  **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
+  Junyi Ma, Guangming Xiong, **Jingyi Xu**, Xieyuanli Chen* 
   <br>
   IEEE Transactions on Industrial Informatics (TII), 2023.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
 
-- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
   <br>
-  Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
+  Zijie Zhou, **Jingyi Xu**, Guangming Xiong, Junyi Ma
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2023. 
   <br>
@@ -58,7 +58,7 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
 
 - **Explicit Interaction for Fusion-Based Place Recognition**
   <br>
-  Jingyi Xu, **Junyi Ma**, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
+  **Jingyi Xu**, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
   <br>
   arXiv preprint arXiv:2402.17264, 2024.
   <br>
@@ -72,12 +72,13 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   Unmanned Systems (US).
   <br>
   [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
 
 ### Occupancy Forecasting
 
   - **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
   <br>
-  **Junyi Ma#**, Xieyuanli Chen#, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
+  Junyi Ma#, Xieyuanli Chen#, Jiawei Huang, **Jingyi Xu**, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
   <br>
   IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2024
   <br>
@@ -85,7 +86,15 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
 ### Energy Management Strategies
-
+   
+- **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
+  <br>
+  **Jingyi Xu**, Zirui Li, Li Gao, Junyi Ma, Qi Liu, and Yanan Zhao* 
+  <br>
+  IEEE Intelligent Vehicles Symposium (IV), 2022.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]
+  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)
 
 - **A Transferable Energy Management Strategy for Hybrid Electric Vehicles via Dueling Deep Deterministic Policy Gradient**
   <br>
@@ -94,14 +103,6 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   Green Energy and Intelligent Transportation.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)]
-   
-- **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
-  <br>
-  **Jingyi Xu**, Zirui Li, Li Gao, Junyi Ma, Qi Liu, and Yanan Zhao* 
-  <br>
-  IEEE Intelligent Vehicles Symposium (IV), 2022.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
 
 ### Others
 
@@ -119,4 +120,5 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   <br>
   Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
+  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
