@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD candidate in Institute for Sensing and Navigation at Shanghai Jiao Tong University. I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology in 2020 and 2023 respectively. I am trying to apply learning methods to intelligent vehicles and robots.
+I am an incoming PhD candidate in the Institute for Sensing and Navigation at Shanghai Jiao Tong University. I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology in 2020 and 2023 respectively. I am trying to apply learning methods to intelligent vehicles and robots.
 
 ## Research Interests
 
 - Place recognition
-- Semantic segmentation
-- Energy management stategies, deep reinforcement learning, transfer learning
+- Energy management strategies
 - ...
 
 ## News
@@ -71,7 +70,8 @@ I am an incoming PhD candidate in Institute for Sensing and Navigation at Shangh
   <br>
   Unmanned Systems (US).
   <br>
-  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]     
+  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
+
 ### Occupancy Forecasting
 
   - **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
