@@ -36,6 +36,7 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   IEEE Transactions on Industrial Electronics (TIE), 2022.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)
 
 - **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
   <br>
