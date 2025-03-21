@@ -24,14 +24,38 @@ I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jia
 - **[Dec. 2022]** Our paper _SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data_ is accepted by **IEEE Transactions on Industrial Electronics**.
 - **[July. 2022]** Our paper _A Transferable Energy Management Strategy for Hybrid Electric Vehicles via Dueling Deep Deterministic Policy Gradient_ is accepted by **Green Energy and Intelligent Transportation**.
 - **[Apr. 2022]** Our paper _A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles_ is accepted by **IV 2022**.
-- **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
-- **[Jun. 2021]** Our paper _Road Roughness Estimation for Intelligent Vehicles Based on SNE and Semantic Segmentation_ is accepted by **ICUS 2021**.
-- **[Jun. 2021]** Our paper _Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems_ is accepted by **ICUS 2021**.
+
 
 ## SELECTED Publications
 
 ### Place Recognition and SLAM
 
+- **Explicit Interaction for Fusion-Based Place Recognition**
+  <br>
+  **Jingyi Xu**, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
+  <br>
+  arXiv preprint arXiv:2402.17264, 2024.
+  <br>
+  [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
+![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
+
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
+  <br>
+  Zijie Zhou, **Jingyi Xu**, Guangming Xiong, Junyi Ma
+  <br>
+  IEEE Robotics and Automation Letters (RA-L), 2023. 
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
+![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
+
+- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
+  <br>
+  Zhangshuo Qi#, Junyi Ma#, **Jingyi Xu**, Zijie Zhou, Luqi Cheng, Guangming Xiong*
+  <br>
+  arXiv preprint arXiv:2410.00299, 2024.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2410.00299)] [[Code](https://github.com/QiZS-BIT/GSPR)]    
+  ![Github stars](https://img.shields.io/github/stars/QiZS-BIT/GSPR.svg)  ![Github forks](https://img.shields.io/github/forks/QiZS-BIT/GSPR.svg)
 
 - **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
   <br>
@@ -51,53 +75,7 @@ I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jia
   [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
 
-- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
-  <br>
-  Zijie Zhou, **Jingyi Xu**, Guangming Xiong, Junyi Ma
-  <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023. 
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
-![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
-
-- **Explicit Interaction for Fusion-Based Place Recognition**
-  <br>
-  **Jingyi Xu**, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
-  <br>
-  arXiv preprint arXiv:2402.17264, 2024.
-  <br>
-  [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
-![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
-
-- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
-  <br>
-  Zhangshuo Qi#, Junyi Ma#, **Jingyi Xu**, Zijie Zhou, Luqi Cheng, Guangming Xiong*
-  <br>
-  arXiv preprint arXiv:2410.00299, 2024.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2410.00299)] [[Code](https://github.com/QiZS-BIT/GSPR)]    
-  ![Github stars](https://img.shields.io/github/stars/QiZS-BIT/GSPR.svg)  ![Github forks](https://img.shields.io/github/forks/QiZS-BIT/GSPR.svg)
-
-
-- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
-  <br>
-  Guangming Xiong*, Junyi Ma, Huilong Yu, **Jingyi Xu**, Jiahui Xu
-  <br>
-  Unmanned Systems (US).
-  <br>
-  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
-
 ### Occupancy Forecasting
-
-  - **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
-  <br>
-  Junyi Ma#, Xieyuanli Chen#, Jiawei Huang, **Jingyi Xu**, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
-  <br>
-  IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2024
-  <br>
-  [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
-  ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
   - **Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting**
   <br>
@@ -107,6 +85,15 @@ I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jia
   <br>
   [[PDF](https://arxiv.org/pdf/2411.14169)]  [[Code](https://github.com/BIT-XJY/EfficientOCF)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EfficientOCF.svg)
+
+  - **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
+  <br>
+  Junyi Ma#, Xieyuanli Chen#, Jiawei Huang, **Jingyi Xu**, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
+  <br>
+  IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2024
+  <br>
+  [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
+  ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
 ### Energy Management Strategies
    
