@@ -94,7 +94,7 @@ I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jia
   <br>
   Junyi Ma#, Xieyuanli Chen#, Jiawei Huang, **Jingyi Xu**, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
   <br>
-  IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2024
+  IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2024
   <br>
   [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
   ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
@@ -103,7 +103,7 @@ I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jia
   <br>
   **Jingyi Xu**#, Xieyuanli Chen#, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei*
   <br>
-  IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2025
+  IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2025
   <br>
   [[PDF](https://arxiv.org/pdf/2411.14169)]  [[Code](https://github.com/BIT-XJY/EfficientOCF)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EfficientOCF.svg)
