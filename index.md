@@ -9,11 +9,15 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
 ## Research Interests
 
 - Place recognition
+- Occupancy forecasting
 - Energy management strategies
 - ...
 
 ## News
 
+- **[Feb. 2025]** Our paper _Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting_ is accepted by **CVPR 2025**.
+- **[Jun. 2024]** Our paper _A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles_ is accepted by **Energy**.
+- **[Jun. 2024]** Our papers _Explicit Interaction for Fusion-Based Place Recognition_ and _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ are accepted by **IROS 2024**.
 - **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
 - **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
 - **[Sep. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
@@ -65,6 +69,16 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
 ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
 
+- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving** <strong><i style="color:#0000FF">Equal Contribution</i></strong>
+  <br>
+  Zhangshuo Qi#, Junyi Ma#, **Jingyi Xu**, Zijie Zhou, Luqi Cheng, Guangming Xiong*
+  <br>
+  arXiv preprint arXiv:2410.00299, 2024.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2410.00299)] [[Code](https://github.com/QiZS-BIT/GSPR)]    
+  ![Github stars](https://img.shields.io/github/stars/QiZS-BIT/GSPR.svg)  ![Github forks](https://img.shields.io/github/forks/QiZS-BIT/GSPR.svg)
+
+
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
   Guangming Xiong*, Junyi Ma, Huilong Yu, **Jingyi Xu**, Jiahui Xu
@@ -84,6 +98,15 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   <br>
   [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
   ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
+
+  - **Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting**
+  <br>
+  **Jingyi Xu**#, Xieyuanli Chen#, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei*
+  <br>
+  IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2025
+  <br>
+  [[PDF](https://arxiv.org/pdf/2411.14169)]  [[Code](https://github.com/BIT-XJY/EfficientOCF)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EfficientOCF.svg)
 
 ### Energy Management Strategies
    
