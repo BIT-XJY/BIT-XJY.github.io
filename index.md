@@ -69,7 +69,7 @@ I am an incoming PhD candidate in the Institute for Sensing and Navigation at Sh
   [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
 ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
 
-- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving** <strong><i style="color:#0000FF">Equal Contribution</i></strong>
+- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
   <br>
   Zhangshuo Qi#, Junyi Ma#, **Jingyi Xu**, Zijie Zhou, Luqi Cheng, Guangming Xiong*
   <br>
