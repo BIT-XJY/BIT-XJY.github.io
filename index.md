@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD candidate in the Institute for Sensing and Navigation at Shanghai Jiao Tong University. I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology in 2020 and 2023 respectively. I am trying to apply learning methods to intelligent vehicles and robots.
+I am a PhD candidate in the Institute for Sensing and Navigation at Shanghai Jiao Tong University, supervised by [Prof. Ling Pei](https://scholar.google.com.hk/citations?hl=zh-CN&user=Vm7d2EkAAAAJ). I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology in 2020 and 2023 respectively. I am trying to apply learning methods to intelligent vehicles and robots.
 
 ## Research Interests
 
